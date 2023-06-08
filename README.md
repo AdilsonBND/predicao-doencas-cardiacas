@@ -3,7 +3,7 @@
 Trata-se de estudo no qual os códigos e dados foram extraídos do site kaggle.com realizado com finalidade de aprendizagem.
 <br>
 Com esse intuito, realizei a edição de cada etapa, estudando, analisando e comentando.
-<br>
+<br><br>
 1) Inicialmente foram utilizados os dados relativos ao coração de vários indivíduos, constando as seguintes informações:
 <pre>
 a) Age: idade do paciente (em anos)
