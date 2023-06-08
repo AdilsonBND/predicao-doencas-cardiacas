@@ -1,6 +1,6 @@
 # Estudo de modelos preditivos para prever doenças cardíacas.
 <br>
-Trata-se de estudo no qual os códigos e dados foram extraídos do site kaggle.com realizado com finalidade de aprendizagem.
+Trata-se de estudo no qual os códigos e dados foram extraídos do site kaggle.com realizado com finalidade de aprendizagem.<br>
 Com esse intuito, realizei a edição de cada etapa, estudando, analisando e comentando.
 <br>
 1) Inicialmente foram utilizados os dados relativos ao coração de vários indivíduos, constando as seguintes informações:
@@ -30,7 +30,7 @@ b) exploração dos dados com pandas profiling
 a) tranformação dos dados alfanuméricos em dados numéricos 
 b) Dimensinamento dos dados para valores entre -1 e 1
 c) Seleção dos dados relevantes 
-d) Retirada de dados pouco relevantes. Utilizando-se da biblioteca SelectKBest verificou-se que o dados RetingECG e RestingBP eram pouco relevantes para predição de doenças cardíacas.
+d) Retirada de dados pouco relevantes. Utilizando-se da biblioteca SelectKBest verificou-se que o dados RetingECG e RestingBP eram<br> pouco relevantes para predição de doenças cardíacas.
 </pre>
 <br>
 4) Extração dos melhores parâmetros de cada modelo com impressão da métrica de avaliação do modelo "ROC AUC", sendo eles:
@@ -48,7 +48,7 @@ j) Logistic Regression
 k) LightGBM
 </pre>
 <br>
-5) Criação de modelo por empilhamento utilizando os melhores parâmetros de cada um dos modelos anteriormente testados.
+5) Criação de modelo por empilhamento utilizando os melhores parâmetros de cada um dos modelos anteriormente testados.<br>
 6) Obtenção da classificação de cada um dos modelos com base no "ROC AUC" incluindo o modelo obtido pelo empilhamento que foi nomeado de "stacking", e apresentação gráfica boxplot:
 
 <img src="https://github.com/AdilsonBND/predicao-doencas-cardiacas/blob/main/images/output.png"></img>
