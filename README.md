@@ -50,6 +50,7 @@ k) LightGBM
 </pre>
 <br>
 5) Criação de modelo por empilhamento utilizando os melhores parâmetros de cada um dos modelos anteriormente testados.<br>
+<br>
 6) Obtenção da classificação de cada um dos modelos com base no "ROC AUC" incluindo o modelo obtido pelo empilhamento que foi nomeado de "stacking", e apresentação gráfica boxplot:
-
+<br><br>
 <img src="https://github.com/AdilsonBND/predicao-doencas-cardiacas/blob/main/images/output.png"></img>
