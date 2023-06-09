@@ -4,6 +4,9 @@ Trata-se de estudo no qual os códigos e dados foram extraídos do site kaggle.c
 <br>
 Com esse intuito, realizei a edição de cada etapa, estudando, analisando e comentando.
 <br><br>
+Obs: Caso não consiga acessar o arquivo heart.ipynb, acessar por meio do gitdev clicando no link abaixo: <br>
+<link>https://github.com/AdilsonBND/predicao-doencas-cardiacas/blob/main/NoteBooks/heart.ipynb</link>
+<br><br>
 1) Inicialmente foram utilizados os dados relativos ao coração de vários indivíduos, constando as seguintes informações:
 <pre>
 a) Age: idade do paciente (em anos)
